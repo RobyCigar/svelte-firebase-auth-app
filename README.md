@@ -1,3 +1,13 @@
+# Preview 
+
+## Login Page
+![Screenshot_2021-09-05_21-20-52](https://user-images.githubusercontent.com/69680330/132130341-2da2c9d5-2086-46e9-873b-1ea4b83aa86c.png)
+
+## Profile Page
+![aaaaaa](https://user-images.githubusercontent.com/69680330/132130275-5e677e52-fe8e-464c-88cb-c03ca12d653f.png)
+
+
+
 *Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
 
 ---
