@@ -20,7 +20,7 @@
 
 <form class="row flex flex-center" on:submit|preventDefault={handleLogin}>
   <div class="col-6 form-widget">
-    <h1 class="header">CRUD WITH SUPABASE & SVELTE</h1>
+    <h1 class="header">SUPABASE & SVELTE</h1>
     <p class="description">Sign in via magic link with your email below</p>
     <div>
       <input
